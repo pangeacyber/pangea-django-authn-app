@@ -6,7 +6,7 @@ This app demonstrates how to use the Pangea AuthN Django middleware in an applic
 
 ## Pre Reqs Check
 In order to run this application you are going to need:
- - [Pangea.Cloud](pangea.cloud) Account with AuhtN service enabled
+ - [Pangea.cloud](https://pangea.cloud/) Account with AuhtN service enabled
  - Github account
 
 There are two ways we will cover on how to run this example app: Codespace or locally. 
