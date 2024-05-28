@@ -11,7 +11,7 @@ In order to run this application you are going to need:
 
 There are two ways we will cover on how to run this example app: Codespace or locally. 
 
-## Getting Started via Codespace
+## Getting Started
 1. Git clone this repo
 
 > Note: You can also open this repo in a Codespace
